@@ -2,9 +2,9 @@
 ### DADA-base: A System for Questionable Outcomes
 
 **Status:** 🚧 In Development (Ideation Phase)
+Because every joke here lives somewhere between logic… and regret.
 
-Dadabase Generator is a Streamlit app built to deliver fast, reliable, and completely unnecessary dad jokes on demand.
-Also known as **DADA-base**, because every joke here lives somewhere between logic and chaos.
+Dadabase Generator is a Streamlit app built to deliver fast, reliable, and completely unnecessary dad jokes on demand. Also known as *DADA-base*, it’s where structured humor meets chaotic punchlines.
 
 The working concept—**DADA-base**—leans into the idea that dad jokes follow just enough logic to function… but not enough to be taken seriously.
 
