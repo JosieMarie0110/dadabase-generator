@@ -13,4 +13,4 @@ This project is currently a placeholder while the foundation is being built:
 - joke generation engine  
 - interactive inputs  
 
-No actual joke output yet—just the early framework behind what will eventually become a fully realized (and mildly regrettable) experience.
+No actual joke output yet, just the early framework behind what will eventually become a fully realized (and mildly regrettable) experience.
